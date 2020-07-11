@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "12369534458",
+    "firebase_url": "https://mycolos-f55df.firebaseio.com",
+    "project_id": "mycolos-f55df",
+    "storage_bucket": "mycolos-f55df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12369534458:android:13f5052c42b09e57a49843",
+        "android_client_info": {
+          "package_name": "com.example.mycolocs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12369534458-tnsel8vqfapd1ohk3nd8v5h5tfl4k1q6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1TAbzYzOEUkcHsPYBENJOik2PMNm3L0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12369534458-tnsel8vqfapd1ohk3nd8v5h5tfl4k1q6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
